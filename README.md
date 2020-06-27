@@ -24,3 +24,10 @@
   <h5>iii. Neighbour Automata</h5>
   <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=900>
 </ul>
+<h2>TODO</h2>
+<ol>
+  <li>Create the gallery page</li>
+  <li>Create individual pages for separate techniques</li>
+  <li>Start with the framing of each Art</li>
+  <li>Convert to dynamic galleries and show the simulations whenever possible over static images of the art</li>
+</ol>
