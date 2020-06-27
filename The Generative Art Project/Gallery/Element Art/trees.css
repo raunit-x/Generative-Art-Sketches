@@ -1,0 +1,100 @@
+/* body {
+    background-color: rgb(53, 7, 7);
+} */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+body{
+    background: #fff;
+    /* background: url('im'); */
+    font: 20px 'Baloo Tamma 2', sans-serif;
+    color: #555;
+}
+
+.theMenu{
+    position: fixed;
+    background: #2b333a;
+    width: 70px;
+    height: 70%;
+    display: flex;
+    align-items: center;    
+    overflow: hidden;
+    transition: 1s;
+    padding-left: 0%;
+    padding-top: 0%;
+}
+
+.link-holder{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0 0 40px;
+    transform: translateX(100px);
+    opacity: 0;
+    transition: 0.6s cubic-bezier(1,0,0,1)
+}
+
+.theMenu a{
+    font-size: 30px;
+    letter-spacing: 3px;
+    color: white;
+    text-decoration: none;
+}
+
+.theMenu a:hover{
+    color: goldenrod;
+    text-decoration: none;
+}
+
+.theMenu button{
+    background: none;
+    border: 0px;
+    padding: 5px;
+    position: absolute;
+    left: 10px;
+    top: 93px;
+    width: 34px;
+    height: 26px;
+    display: flex;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+.theMenu button span{
+    display: block;
+    background: #fff;
+    height: 2px;
+    width: 30px;
+}
+
+.theMenu button span::before,
+.theMenu span::after
+{
+    display: block;
+    background: #fff;
+    content: '';
+    height: 2px;
+    width: 30px;
+    transition: all 1s ease-in-out;
+}
+
+.theMenu button span::before{
+    transform: translateY(-9px);
+}
+
+.theMenu button span::after{
+    transform: translateY(7px);
+}
+
+.theMenu:hover{
+    width: 100%;
+}
+
+.theMenu:hover .link-holder{
+    transform: translateX(50px);
+    opacity:1;
+}
+
+.theMenu:hover button span::before{
+    transform: translateY(-15px);
+}
+.theMenu:hover button span::after{
+    transform: translateY(13px);
+}

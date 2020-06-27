@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+
+body {
+    background-color: black;
+}
+.noselect {
+    -webkit-touch-callout: none; 
+      -webkit-user-select: none; 
+       -khtml-user-select: none; 
+         -moz-user-select: none; 
+          -ms-user-select: none; 
+              user-select: none; 
+  }
+html{
+    scroll-behavior: smooth;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   }
+
+a {
+    color: #fff ; 
+    text-decoration: none;
+}
+
+body{
+    background: #fff;
+    font: 20px 'Baloo Tamma 2', sans-serif;
+    color: #555;
+}
+
+h1,h2,h3,h4{
+    font: 45px 'Bellota Text', cursive;
+    letter-spacing: 3px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.author {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#instructions
+{
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.theMenu{
+    position: fixed;
+    background: #2b333a;
+    width: 70px;
+    height: 70%;
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    overflow: hidden;
+    transition: 1s;
+}
+
+.link-holder{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0 0 40px;
+    transform: translateX(100px);
+    opacity: 0;
+    transition: 0.6s cubic-bezier(1,0,0,1)
+}
+
+.theMenu a{
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+.theMenu a:hover {
+    color: cyan;
+}
+
+.theMenu button{
+    background: none;
+    border: 0px;
+    padding: 5px;
+    position: absolute;
+    left: 10px;
+    top: 93px;
+    width: 34px;
+    height: 26px;
+    display: flex;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+.theMenu button span{
+    display: block;
+    background: cyan;
+    height: 2px;
+    width: 30px;
+}
+
+.theMenu button span::before,
+.theMenu button span::after{
+    display: block;
+    background:#fff;
+    content: '';
+    height: 2px;
+    width: 30px;
+    transition: all 1s ease-in-out;
+}
+
+.theMenu button span::before{
+    transform: translateY(-9px);
+}
+
+.theMenu button span::after{
+    transform: translateY(7px);
+}
+
+.theMenu:hover{
+    width: 100%;
+}
+
+.theMenu:hover .link-holder{
+    transform: translateX(50px);
+    opacity:1;
+}
+
+.theMenu:hover button span::before{
+    transform: translateY(-15px);
+}
+.theMenu:hover button span::after{
+    transform: translateY(13px);
+}
+
+.back-to-top{
+    width: 70px;
+    height: 30%;
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    background: #fff;
+    pointer-events:none;
+    opacity: 0;
+    transition: 0.4s;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back-to-top img{
+    display: block;
+    transform: rotate(90deg);
+    cursor: pointer;
+    width:120%;
+}
+
+.back-to-top.active{
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.container {
+    min-height: 100vh;
+    margin-left:70px;
+    width: calc(100% - 70px);
+    padding: 20px;
+}
+
+.section1{
+    padding: 30px;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.headings{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    height: 15vh;
+    align-items: center;
+}
+
+.hero-text{
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section2{
+    margin-left:100px;
+    height:115vh;
+    /* background-color: #777; */
+}
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    grid-template-rows: repeat(9,1fr);
+    grid-gap: 25px;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+}
+
+.item1, .item2, .item3 {
+    cursor: pointer;
+    transition: all 1s;
+}
+
+.item1:hover, .item2:hover, .item3:hover{
+    transform: translateY(-7px);
+}
+.item1{
+    grid-column: 1/4;
+    grid-row: 1/8;
+    background: url("images/pic1.png");
+}
+.item2{
+    grid-column: 4/6;
+    grid-row: 1/4;
+    background: url("images/pic2.png");
+}
+.item3{
+    grid-column: 4/7;
+    grid-row: 4/9;
+    background: url("images/pic3.png");
+}
+
+.item4{
+    grid-column: 4/6;
+    grid-row: 9/10;
+    color: #555;
+}
+
+.item4 a{
+    color: #777;
+    padding: 5px;
+    display: inline-block;
+}
+
+.item4 a:hover{
+    text-decoration:underline;
+}
+.grid-items{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+footer{ 
+    display: flex;
+    justify-content: space-around;
+    height: 30vh;
+    width: 100%;
+}
+
+.social-links{
+    display: flex;
+}
+.social-links img{
+    width: 70px;
+    margin: 0 5px;
+    transition: all 0.4s;
+}
+
+.social-links a:hover >img{
+    transform: translateY(-7px);
+    transform: translate3d(10px);
+}
