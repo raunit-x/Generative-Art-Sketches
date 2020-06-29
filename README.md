@@ -27,6 +27,10 @@
   <img src="Sketches/Water Ripple/ripple.png" width=900>
   <img src="Sketches/Water Ripple/ayo.png" width=900>
 </ul>
+<h4>4. Tiling</h4>
+<ul>
+  <img src="Tiling/spaceInvaders.png" width=800>
+</ul>
 <h2>TODO</h2>
 <ol>
   <li>Create the gallery page</li>
