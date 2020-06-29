@@ -24,6 +24,7 @@
   <img src="The Generative Art Project/Sketches/Cellular Automata/Conway's Life/Screenshot 2020-04-24 at 1.47.35 AM.png" width=900>
   <h5>iii. Neighbour Automata</h5>
   <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=900>
+  <img src="Sketches/Water Ripple/ripple.png" width=900>
 </ul>
 <h2>TODO</h2>
 <ol>
