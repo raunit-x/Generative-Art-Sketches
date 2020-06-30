@@ -31,6 +31,12 @@
 <ul>
   <img src="Tiling/spaceInvaders.png" width=800>
 </ul>
+<h4>5. Amalgamations</h4>
+<ul>
+  <h5>i. Quad Trees with Pi Numbers (Moon)</h5>
+  <img src="Sketches/Quad Tree/pic2.png" width=800>
+  <img src="Sketches/Quad Tree/pic1.png" width=800>
+</ul>
 <h2>TODO</h2>
 <ol>
   <li>Create the gallery page</li>
