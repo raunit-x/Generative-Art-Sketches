@@ -13,11 +13,26 @@ var numPartices = 500;
 var flowfield = [];
 var dark = true;
 let count = 0;
+let buildingCount = 0;
+
+function generateBuilding()
+{
+  if(buildingCount > 6)
+    return;
+  let buildingHeight = random(height / 4, 3 * height / 4);
+  let buildingWidth = random(30, 60);
+  let bottomLeftX = random(width - 90) + 20;
+  for(let i = 0; i < 1000; ++i)
+  {
+    qTree.insert(new Point(bottomLeftX + random(buildingWidth), random(buildingHeight, height)));
+  }
+  buildingCount++;
+}
 
 function setup() {
   createCanvas(1200, 800);
   let edgeSize = width;
-  qTree = new QuadTree(new Rectangle(width / 2, width / 2, width / 2, width / 2), 4);
+  qTree = new QuadTree(new Rectangle(width / 2, width / 2, width / 2, width / 2), 1);
   const sdigits = pi[0].split('');
   index = 0;
   digits = pi;
@@ -37,9 +52,11 @@ function setup() {
 
 
 function draw() {
-  if (mouseIsPressed)
-    for (let i = 0; i < 10; ++i)
-      qTree.insert(new Point(mouseX + random(-5, 5), mouseY + random(-5, 5)));
+  // if (mouseIsPressed)
+  //   for (let i = 0; i < 10; ++i)
+  //     qTree.insert(new Point(mouseX + random(-5, 5), mouseY + random(-5, 5)));
+
+  generateBuilding();
   // background(0);
   qTree.show();
   drawPI();
@@ -69,7 +86,7 @@ function drawPI() {
 
 function drawPerlin()
 {
-	if(count == 300)
+	if(count == 350)
 		return;
 	++count;
 	stroke(0);
