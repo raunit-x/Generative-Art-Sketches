@@ -13,19 +13,16 @@
 <ul>
   <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/Screenshot 2020-04-17 at 8.31.00 PM.png" width=900>
   <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/pic1.png" width=900>
-  <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/pic1.png" width=900>
 </ul>
 
 <h4>3. Cellular Automata</h4>
 <ul>
   <h5>i. Spiral Automata</h5>
   <img src="The Generative Art Project/Sketches/Cellular Automata/Spiral Automata/Screenshot 2020-04-25 at 2.00.21 AM.png" width=900>
-  <img src="The Generative Art Project/Sketches/Cellular Automata/Spiral Automata/Screenshot 2020-05-01 at 12.33.40 AM.png" width=900>
   <h5>ii. Conway's Game of Life</h5>
   <img src="The Generative Art Project/Sketches/Cellular Automata/Conway's Life/Screenshot 2020-04-24 at 1.47.35 AM.png" width=900>
   <h5>iii. Neighbour Automata</h5>
   <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=900>
-  <img src="Sketches/Water Ripple/ripple.png" width=900>
   <img src="Sketches/Water Ripple/ayo.png" width=900>
 </ul>
 <h4>4. Tiling</h4>
