@@ -33,7 +33,7 @@
 </ul>
 <h4>5. Amalgamations</h4>
 <ul>
-  <h5>i. Quad Trees with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
+  <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
   <img src="Experiments/Ghost Town/pic1.png" width=800>
 </ul>
 <h2>TODO</h2>
