@@ -13,6 +13,7 @@
 <ul>
   <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/Screenshot 2020-04-17 at 8.31.00 PM.png" width=900>
   <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/pic1.png" width=900>
+  <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/pic1.png" width=900>
 </ul>
 
 <h4>3. Cellular Automata</h4>
@@ -31,10 +32,19 @@
 <ul>
   <img src="Tiling/spaceInvaders.png" width=900>
 </ul>
-<h4>5. Amalgamations</h4>
+<h4>5. Iterative Function System (IFS) </h4>
+<ul>
+  <h5>De Jong IFS</h5>
+  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 4.07.00 PM.png" width=600>
+  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 5.55.40 PM 1.png" width=800>
+</ul>
+<h4>6. Amalgamations</h4>
 <ul>
   <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
   <img src="Experiments/Ghost Town/pic1.png" width=900>
+  <h5>ii. Tiling + De Jong(IFS)</h5>
+  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 6.30.09 PM.png" width=900>
+  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 6.23.05 PM.png" width=900>
 </ul>
 <h2>TODO</h2>
 <ol>
