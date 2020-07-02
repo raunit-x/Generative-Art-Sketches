@@ -40,7 +40,7 @@
   <img src="Experiments/Ghost Town/pic1.png" width=900>
   <h5>ii. Tiling + De Jong(IFS)</h5>
   <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 6.30.09 PM.png" width=900>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 7.23.07 PM.png" width=900>
+  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-03 at 2.19.30 AM.png" width=900>
 </ul>
 <h2>TODO</h2>
 <ol>
