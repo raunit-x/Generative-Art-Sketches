@@ -32,7 +32,6 @@
 <h4>5. Iterative Function System (IFS) </h4>
 <ul>
   <h5>De Jong IFS</h5>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 4.07.00 PM.png" width=600>
   <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 5.55.40 PM 1.png" width=800>
 </ul>
 <h4>6. Amalgamations</h4>
