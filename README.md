@@ -23,7 +23,7 @@
   <img src="The Generative Art Project/Sketches/Cellular Automata/Conway's Life/Screenshot 2020-04-24 at 1.47.35 AM.png" width=600>
   <h5>iii. Neighbour Automata</h5>
   <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=600>
-  <img src="Sketches/Water Ripple/ayo.png" width=700>
+  <img src="Sketches/Water Ripple/Screenshot 2020-07-04 at 2.03.22 AM.png" width=700>
 </ul>
 <h4>4. Tiling</h4>
 <ul>
