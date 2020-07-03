@@ -39,7 +39,6 @@
   <h5>Craig Reynolds Algo</h5>
   <p float="left">
     <img src="Sketches/Flocking Simulation/Screenshot 2020-07-03 at 7.34.08 PM.png" width="400" />
-    &nbsp;&nbsp;&nbsp;
     <img src="Sketches/Flocking Simulation/Screenshot 2020-07-03 at 7.38.08 PM.png" width="400" />
   </p>
   <img src="Sketches/Flocking Simulation/Screenshot 2020-07-03 at 7.10.12 PM.png" width="820"/>
