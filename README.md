@@ -34,7 +34,17 @@
   <h5>De Jong IFS</h5>
   <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 5.55.40 PM 1.png" width=800>
 </ul>
-<h4>6. Amalgamations</h4>
+<h4>6. Flocking Simulations </h4>
+<ul>
+  <h5>Craig Reynolds Algo</h5>
+  <p float="left">
+    <img src="Sketches/Flocking Simulation/Screenshot 2020-07-03 at 7.34.08 PM.png" width="400" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Sketches/Flocking Simulation/Screenshot 2020-07-03 at 7.38.08 PM.png" width="400" />
+  </p>
+  <img src="Sketches/Flocking Simulation/Screenshot 2020-07-03 at 7.10.12 PM.png" width="820"/>
+</ul>
+<h4>7. Amalgamations</h4>
 <ul>
   <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
   <img src="Experiments/Ghost Town/pic1.png" width=900>
