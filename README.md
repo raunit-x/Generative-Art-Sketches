@@ -18,16 +18,16 @@
 <h4>3. Cellular Automata</h4>
 <ul>
   <h5>i. Spiral Automata</h5>
-  <img src="The Generative Art Project/Sketches/Cellular Automata/Spiral Automata/Screenshot 2020-04-25 at 2.00.21 AM.png" width=900>
+  <img src="The Generative Art Project/Sketches/Cellular Automata/Spiral Automata/Screenshot 2020-04-25 at 2.00.21 AM.png" width=600>
   <h5>ii. Conway's Game of Life</h5>
-  <img src="The Generative Art Project/Sketches/Cellular Automata/Conway's Life/Screenshot 2020-04-24 at 1.47.35 AM.png" width=900>
+  <img src="The Generative Art Project/Sketches/Cellular Automata/Conway's Life/Screenshot 2020-04-24 at 1.47.35 AM.png" width=600>
   <h5>iii. Neighbour Automata</h5>
-  <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=900>
-  <img src="Sketches/Water Ripple/ayo.png" width=900>
+  <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=600>
+  <img src="Sketches/Water Ripple/ayo.png" width=700>
 </ul>
 <h4>4. Tiling</h4>
 <ul>
-  <img src="Tiling/spaceInvaders.png" width=900>
+  <img src="Tiling/spaceInvaders.png" width=600>
 </ul>
 <h4>5. Iterative Function System (IFS) </h4>
 <ul>
