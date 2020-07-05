@@ -54,7 +54,12 @@
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.17.39 PM.png" width=800>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-05 at 1.19.19 AM.png" width=800>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.16.40 PM.png" width=800>
+  <h5>iv. Eye(?) </h5>
+  <img src="/Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.41.45 PM.png" width=900>
+  <img src="Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.33.23 PM.png" width=900>
 </ul>
+
+
 <h2>TODO</h2>
 <ol>
   <li>Create the gallery page</li>
