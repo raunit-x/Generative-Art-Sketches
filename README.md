@@ -53,6 +53,8 @@
   <h5>iii. Circles</h5>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.17.39 PM.png" width=800>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-05 at 1.19.19 AM.png" width=800>
+  <h6>Pastel Texture</h6>
+  <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-06 at 2.12.33 PM.png" width=800>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.16.40 PM.png" width=800>
   <h5>iv. Eye(?) </h5>
   <img src="/Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.41.45 PM.png" width=900>
