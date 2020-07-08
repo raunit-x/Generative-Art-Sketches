@@ -50,7 +50,6 @@
   <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
   <img src="Experiments/Ghost Town/pic1.png" width=900>
   <h5>ii. Tiling + De Jong(IFS)</h5>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 6.30.09 PM.png" width=900>
   <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-03 at 2.19.30 AM.png" width=900>
   <h5>iii. Circles</h5>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.17.39 PM.png" width=800>
