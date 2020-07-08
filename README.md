@@ -17,13 +17,16 @@
 
 <h4>3. Cellular Automata</h4>
 <ul>
-  <h5>i. Spiral Automata</h5>
-  <img src="The Generative Art Project/Sketches/Cellular Automata/Spiral Automata/Screenshot 2020-04-25 at 2.00.21 AM.png" width=600>
-  <h5>ii. Conway's Game of Life</h5>
-  <img src="The Generative Art Project/Sketches/Cellular Automata/Conway's Life/Screenshot 2020-04-24 at 1.47.35 AM.png" width=600>
-  <h5>iii. Neighbour Automata</h5>
-  <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=600>
-  <img src="Sketches/Water Ripple/Screenshot 2020-07-04 at 2.03.22 AM.png" width=700>
+  <h5>i. Spiral Automata and Conway's Game of Life</h5>
+  <p float="left">
+    <img src="The Generative Art Project/Sketches/Cellular Automata/Spiral Automata/Screenshot 2020-04-25 at 2.00.21 AM.png" width=400>
+    <img src="The Generative Art Project/Sketches/Cellular Automata/Conway's Life/Screenshot 2020-04-24 at 1.47.35 AM.png" width=400>
+  </p>
+  <h5>ii. Neighbour Automata - i. Color on States of Cells and Water Ripples</h5>
+  <p float="left">
+    <img src="The Generative Art Project/Sketches/Cellular Automata/Neighbour Automata/Screenshot 2020-04-24 at 2.34.04 AM.png" width=400>
+    <img src="Sketches/Water Ripple/Screenshot 2020-07-04 at 2.03.22 AM.png" width=500>
+  </p>
 </ul>
 <h4>4. Tiling</h4>
 <ul>
