@@ -59,6 +59,19 @@
   <h5>iv. Eye(?) </h5>
   <img src="/Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.41.45 PM.png" width=900>
   <img src="Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.33.23 PM.png" width=900>
+  <h5>v. Spirals </h5>
+  <p float="left">
+    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.08.01 PM.png" width="400" />
+    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.07.36 PM.png" width="400" />
+  </p>
+  <p float="left">
+    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.06.07 PM.png" width="400" />
+    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.05.49 PM.png" width="400" />
+  </p>
+  <p float="left">
+    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.01.58 PM.png" width="400" />
+    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.00.25 PM.png" width="400" />
+  </p>
 </ul>
 
 
