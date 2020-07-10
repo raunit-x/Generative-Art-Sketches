@@ -13,7 +13,6 @@
   <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-10 at 7.01.18 PM.png" width=900>
   <h5>iii. Circles</h5>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.17.39 PM.png" width=800>
-  <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-05 at 1.19.19 AM.png" width=800>
   <h6>Pastel Texture</h6>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-06 at 2.12.33 PM.png" width=800>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.16.40 PM.png" width=800>
@@ -22,26 +21,10 @@
   <img src="Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.33.23 PM.png" width=900>
   <h5>v. Spirals </h5>
   <p float="left">
-    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.08.01 PM.png" width="400" />
-    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.07.36 PM.png" width="400" />
-  </p>
-  <p float="left">
     <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.06.07 PM.png" width="400" />
-    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.05.49 PM.png" width="400" />
-  </p>
-  <p float="left">
     <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.01.58 PM.png" width="400" />
-    <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.00.25 PM.png" width="400" />
   </p>
 <h5>vi. Flow Fields </h5>
-  <p float="left">
-    <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.20.56 AM.png" width="400" />
-    <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.28.00 AM.png" width="400" />
-  </p>
-  <p float="left">
-    <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.38.15 AM.png" width="400" />
-    <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.41.26 AM.png" width="400" />
-  </p>
   <p float="left">
     <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.49.08 AM.png" width="400" />
     <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.48.11 AM.png" width="400" />
