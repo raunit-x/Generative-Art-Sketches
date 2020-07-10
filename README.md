@@ -32,8 +32,8 @@
   <img src="Experiments/Flow Field/myImage (2).png" width="900" />
   <img src='Experiments/Flow Field/ult (11).png' width='900' />
   <p float='left'>
-    <img src='Experiments/Flow Field/ult (9).png' width='450' />
-    <img src='Experiments/Flow Field/ult (12).png' width='450' />
+    <img src='Experiments/Flow Field/ult (9).png' width='420' />
+    <img src='Experiments/Flow Field/ult (12).png' width='420' />
   </p>
 </ul>
 
