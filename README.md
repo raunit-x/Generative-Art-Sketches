@@ -24,6 +24,16 @@
     <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.06.07 PM.png" width="400" />
     <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.01.58 PM.png" width="400" />
   </p>
+  <h5>vi. Circle Packing </h5>
+  <p float="left">
+    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.59.01 PM.png" width="440" />
+    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.55.04 PM.png" width="440" />
+  </p>
+  <p float="left">
+    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.44.48 PM.png" width="440" />
+    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.39.30 PM.png" width="440" />
+  </p>
+
 <h5>vi. Flow Fields </h5>
   <p float="left">
     <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.49.08 AM.png" width="400" />
