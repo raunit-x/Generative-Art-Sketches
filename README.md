@@ -26,8 +26,8 @@
   </p>
   <h5>vi. Circle Packing </h5>
   <p float="left">
-    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.59.01 PM.png" width="420" />
-    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.44.48 PM.png" width="440" />
+    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.59.01 PM.png" width="400" />
+    <img src="Experiments/Circle Packing/Screenshot 2020-07-12 at 7.44.48 PM.png" width="400" />
   </p>
   <p float="left">
     <img src="Experiments/Circle Packing/circlePacking (3).png" width="800"/>
@@ -42,8 +42,8 @@
   <img src="Experiments/Flow Field/myImage (2).png" width="900" />
   <img src='Experiments/Flow Field/ult (11).png' width='900' />
   <p float='left'>
-    <img src='Experiments/Flow Field/ult (9).png' width='420' />
-    <img src='Experiments/Flow Field/ult (12).png' width='420' />
+    <img src='Experiments/Flow Field/ult (9).png' width='400' />
+    <img src='Experiments/Flow Field/ult (12).png' width='400' />
   </p>
 </ul>
 
