@@ -33,7 +33,6 @@
     <img src="Experiments/Circle Packing/circlePacking (3).png" width="800"/>
     <img src="Experiments/Circle Packing/circlePacking (5).png" width="800"/>
   </p>
-
 <h5>vi. Flow Fields </h5>
   <p float="left">
     <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.49.08 AM.png" width="400" />
@@ -45,7 +44,15 @@
     <img src='Experiments/Flow Field/ult (9).png' width='400' />
     <img src='Experiments/Flow Field/ult (12).png' width='400' />
   </p>
+  <h5>vii. Experiments with Rectangles and Gaussian Noise </h5>
+  <p float="left">
+  <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 1.53.48 AM.png" width="400" />
+    <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.00.01 PM.png" width="400" />
+  </p>
+  <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.03.00 PM.png" width="900" />
+  <img src='Rectangles and Ellipses/Screenshot 2020-07-14 at 12.24.19 PM.png' width='900' />
 </ul>
+
 
 <h4>1. L-System Trees</h4>
 <ul>
