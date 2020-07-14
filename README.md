@@ -7,18 +7,18 @@
 <h4>Amalgamations</h4>
 <ul>
   <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
-  <img src="Experiments/Ghost Town/pic1.png" width=900>
+  <img src="Experiments/Ghost Town/pic1.png" width=800>
   <h5>ii. Tiling + De Jong(IFS)</h5>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-03 at 2.19.30 AM.png" width=900>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-10 at 7.01.18 PM.png" width=900>
+  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-03 at 2.19.30 AM.png" width=800>
+  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-10 at 7.01.18 PM.png" width=800>
   <h5>iii. Circles</h5>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.17.39 PM.png" width=800>
   <h6>Pastel Texture</h6>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-06 at 2.12.33 PM.png" width=800>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.16.40 PM.png" width=800>
   <h5>iv. Eye(?) </h5>
-  <img src="/Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.41.45 PM.png" width=900>
-  <img src="Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.33.23 PM.png" width=900>
+  <img src="/Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.41.45 PM.png" width=800>
+  <img src="Experiments/Texturized Arcs/Screenshot 2020-07-05 at 6.33.23 PM.png" width=800>
   <h5>v. Spirals </h5>
   <p float="left">
     <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.06.07 PM.png" width="400" />
@@ -38,8 +38,8 @@
     <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.49.08 AM.png" width="400" />
     <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.48.11 AM.png" width="400" />
   </p>
-  <img src="Experiments/Flow Field/myImage (2).png" width="900" />
-  <img src='Experiments/Flow Field/ult (11).png' width='900' />
+  <img src="Experiments/Flow Field/myImage (2).png" width="800" />
+  <img src='Experiments/Flow Field/ult (11).png' width='800' />
   <p float='left'>
     <img src='Experiments/Flow Field/ult (9).png' width='400' />
     <img src='Experiments/Flow Field/ult (12).png' width='400' />
@@ -49,20 +49,20 @@
   <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 1.53.48 AM.png" width="400" />
     <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.00.01 PM.png" width="400" />
   </p>
-  <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.03.00 PM.png" width="900" />
-  <img src='Rectangles and Ellipses/Screenshot 2020-07-14 at 12.24.19 PM.png' width='900' />
+  <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.03.00 PM.png" width="800" />
+  <img src='Rectangles and Ellipses/Screenshot 2020-07-14 at 12.24.19 PM.png' width='800' />
 </ul>
 
 
 <h4>1. L-System Trees</h4>
 <ul>
-  <img src="The Generative Art Project/Sketches/L-System Trees/L-Trees/Space Fertility.png" width=900>
-  <img src="The Generative Art Project/Sketches/L-System Trees/L-Trees/Tree1.png" width=900>
+  <img src="The Generative Art Project/Sketches/L-System Trees/L-Trees/Space Fertility.png" width=800>
+  <img src="The Generative Art Project/Sketches/L-System Trees/L-Trees/Tree1.png" width=800>
 </ul>
 <h4>2. Perlin Noise</h4>
 <ul>
-  <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/Screenshot 2020-04-17 at 8.31.00 PM.png" width=900>
-  <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/pic1.png" width=900>
+  <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/Screenshot 2020-04-17 at 8.31.00 PM.png" width=800>
+  <img src="The Generative Art Project/Sketches/Perlin Noise/Prelin Noise/pic1.png" width=800>
 </ul>
 
 <h4>3. Cellular Automata</h4>
