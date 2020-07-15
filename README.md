@@ -56,7 +56,6 @@
 
 <h4>1. L-System Trees</h4>
 <ul>
-  <img src="The Generative Art Project/Sketches/L-System Trees/L-Trees/Space Fertility.png" width=800>
   <img src="The Generative Art Project/Sketches/L-System Trees/L-Trees/Tree1.png" width=800>
 </ul>
 <h4>2. Perlin Noise</h4>
