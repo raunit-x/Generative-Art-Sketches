@@ -94,6 +94,14 @@
   </p>
   <img src="Sketches/Flocking Simulation/Screenshot 2020-07-03 at 7.10.12 PM.png" width="820"/>
 </ul>
+<h4>7. Genetic Algorithms </h4>
+<ul>
+  <h5>Trails of "Smart Rockets"</h5>
+  <p float="left">
+    <img src="Sketches/Genetic Algo Art/Screenshot 2020-07-16 at 12.02.13 AM.png" width="400" />
+    <img src="Sketches/Genetic Algo Art/Screenshot 2020-07-16 at 12.10.53 AM.png" width="400" />
+  </p>
+</ul>
 
 
 <h2>TODO</h2>
