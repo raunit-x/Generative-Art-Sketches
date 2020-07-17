@@ -9,8 +9,8 @@
   <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
   <img src="Experiments/Ghost Town/pic1.png" width=800>
   <h5>ii. Tiling + De Jong(IFS)</h5>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-03 at 2.19.30 AM.png" width=800>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-10 at 7.01.18 PM.png" width=800>
+  <img src="Sketches/IFS Experiments/De Jong/offwhiteIFS (12).png" width=800>
+  <img src="Sketches/IFS Experiments/De Jong/offwhiteIFS (11).png" width=800>
   <h5>iii. Circles</h5>
   <img src="Experiments/Cirlcles Rising/Screenshot 2020-07-04 at 3.17.39 PM.png" width=800>
   <h6>Pastel Texture</h6>
@@ -83,7 +83,7 @@
 <h4>5. Iterative Function System (IFS) </h4>
 <ul>
   <h5>De Jong IFS</h5>
-  <img src="Sketches/IFS Experiments/De Jong/Screenshot 2020-07-02 at 5.55.40 PM 1.png" width=800>
+  <img src="Sketches/IFS Experiments/De Jong/offwhiteIFS (11).png" width=800>
 </ul>
 <h4>6. Flocking Simulations </h4>
 <ul>
