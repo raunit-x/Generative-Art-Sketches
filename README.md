@@ -10,7 +10,7 @@
   <img src="Experiments/Ghost Town/pic1.png" width=800>
   <h5>ii. Tiling + De Jong(IFS)</h5>
   <img src="Sketches/IFS Experiments/De Jong/offwhiteIFS (12).png" width=800>
-  <img src="Sketches/IFS Experiments/De Jong/offwhiteIFS (11).png" width=800>
+  <img src="Sketches/IFS Experiments/De Jong/offwhiteIFS (15).png" width=800>
   <h5>iii. Circles</h5>  
   <h6>Pastel Texture</h6>
   <img src="Experiments/Cirlcles Rising/butterfly (7).png" width=800>
