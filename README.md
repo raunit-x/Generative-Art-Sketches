@@ -7,6 +7,7 @@
 <h4>Amalgamations</h4>
 <ul>
   <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
+  <img src="Experiments/Ghost Town/quadTree (4).png" width=800>
   <img src="Experiments/Ghost Town/pic1.png" width=800>
   <h5>ii. Tiling + De Jong(IFS)</h5>
   <img src="Sketches/IFS Experiments/De Jong/offwhiteIFS (12).png" width=800>
