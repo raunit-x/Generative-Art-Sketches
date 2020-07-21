@@ -37,10 +37,9 @@
   <h5>vii. Experiments with Rectangles and Gaussian Noise </h5>
   <p float="left">
   <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 1.53.48 AM.png" width="400" />
-    <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.00.01 PM.png" width="400" />
+  <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.00.01 PM.png" width="400" />
   </p>
   <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.03.00 PM.png" width="800" />
-  <img src='Rectangles and Ellipses/Screenshot 2020-07-14 at 12.24.19 PM.png' width='800' />
   <h5> vii. Lorentz Attractor System</h5>
   <img src='Experiments/Lorentz/Screenshot 2020-07-21 at 11.07.27 AM.png' width='800' />
   <img src='Experiments/Lorentz/Screenshot 2020-07-21 at 6.55.07 PM.jpeg' width='800' />
