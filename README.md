@@ -43,6 +43,7 @@
   <img src='Rectangles and Ellipses/Screenshot 2020-07-14 at 12.24.19 PM.png' width='800' />
   <h5> vii. Lorentz Attractor System</h5>
   <img src='Experiments/Lorentz/Screenshot 2020-07-21 at 11.07.27 AM.png' width='800' />
+  <img src='Experiments/Lorentz/Screenshot 2020-07-21 at 6.55.07 PM.jpeg' width='800' />
 </ul>
 
 
