@@ -27,15 +27,8 @@
     <img src="Sketches/Canvas Paint Art/Screenshot 2020-07-08 at 8.01.58 PM.png" width="400" />
   </p>
   <h5>vi. Circle Packing </h5>
-  <p float="left">
-    <img src="Experiments/Circle Packing/circlePacking (3).png" width="800"/>
-    <img src="Experiments/Circle Packing/circlePacking (5).png" width="800"/>
-  </p>
-<h5>vi. Flow Fields </h5>
-  <p float="left">
-    <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.49.08 AM.png" width="400" />
-    <img src="Experiments/Flow Field/Screenshot 2020-07-09 at 11.48.11 AM.png" width="400" />
-  </p>
+   <img src='Experiments/Circle Packing/circlePacking (10).png' width='800' />
+  <h5>vi. Flow Fields </h5>
   <img src="Experiments/Flow Field/myImage (2).png" width="800" />
   <img src='Experiments/Flow Field/ult (11).png' width='800' />
   <h5>vii. Experiments with Rectangles and Gaussian Noise </h5>
