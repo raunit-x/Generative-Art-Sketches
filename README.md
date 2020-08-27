@@ -6,6 +6,8 @@
 <h2>Some Generative Art I created </h2>
 <h4>Amalgamations</h4>
 <ul>
+  <h5>Lorentz System</h5>
+  <img src='Experiments/Lorentz/Screenshot 2020-08-27 at 5.49.09 PM.png' width='800' />
   <h5> NN </h5>
   <img src='Sketches/Neural Network/untitled (2).png' width=800>
   <h5>i. Quad Trees(Buildings) with Pi Numbers(Moon) and background Perlin Noise(Wind Effect)</h5>
@@ -43,7 +45,6 @@
   </p>
   <img src="Rectangles and Ellipses/Screenshot 2020-07-14 at 12.03.00 PM.png" width="800" />
   <h5> vii. Lorentz Attractor System</h5>
-  <img src='Experiments/Lorentz/Screenshot 2020-07-21 at 11.07.27 AM.png' width='800' />
   <img src='Experiments/Lorentz/Screenshot 2020-07-21 at 6.55.07 PM.jpeg' width='800' />
 </ul>
 
