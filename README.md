@@ -6,6 +6,8 @@
 <h2>Some Generative Art I created </h2>
 <h4>Amalgamations</h4>
 <ul>
+  <h5>Kandinsky Inspired</h5>
+  <img src='Experiments/Kandinsky/Screenshot 2020-09-03 at 11.08.12 PM.png' width='800' />
   <h5>Lorentz System</h5>
   <img src='Experiments/Lorentz/Screenshot 2020-08-27 at 5.49.09 PM.png' width='800' />
   <h5> NN </h5>
