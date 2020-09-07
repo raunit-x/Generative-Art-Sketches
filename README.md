@@ -6,6 +6,8 @@
 <h2>Some Generative Art I created </h2>
 <h4>Amalgamations</h4>
 <ul>
+   <h5>Recursive Trees and Gaussian Noise for paint effect</h5>
+  <img src='/Experiments/Trees/Japanese Trees (4).png' width='800' />
   <h5>Perlin Noise with tuned Noise Factor leading to swirls</h5>
   <img src='Experiments/Cirlcles Rising/Screenshot 2020-09-04 at 3.40.12 PM.png' width='800' />
   <h5>Kandinsky Inspired</h5>
