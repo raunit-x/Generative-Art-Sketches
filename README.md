@@ -7,7 +7,7 @@
 <h4>Amalgamations</h4>
 <ul>
    <h5>Homage to tennis</h5>
-   <img src='Experiments/Tennis Courts/Screenshot 2020-10-12 at 7.48.51 PM.png' width='800'>
+   <img src='Experiments/Tennis Courts/Screenshot 2020-10-13 at 2.33.10 PM.png' width='800'>
    <h5>Recursive Trees and Gaussian Noise for paint effect</h5>
   <img src='/Experiments/Trees/Japanese Trees (4).png' width='800' />
   <h5>Perlin Noise with tuned Noise Factor leading to swirls</h5>
